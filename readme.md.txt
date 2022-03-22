@@ -6,7 +6,7 @@ GIT
 MYSQL
 ..........
 
-Novas Tecnologias
+Novas Tecnologias - ok
 PHP 8
 Laravel
 Docker
