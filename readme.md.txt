@@ -5,3 +5,10 @@ Html
 PHP
 GIT
 MYSQL
+..........
+
+Novas Tecnologias
+Laravel
+Docker
+Composer
+NODE
